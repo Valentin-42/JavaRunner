@@ -1,6 +1,8 @@
-## Getting Started
+## Java Runner project
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+This video game is my first project with Java.
+The player has to stay alive by avoiding obsctacles to get first rank on the leaderboard.
+Implemented voice analysis to control player's action. Do click on rules & commands at the start menu. 
 
 ## Folder Structure
 
@@ -11,8 +13,15 @@ The workspace contains two folders by default, where:
 
 Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Files structures 
 
-## Dependency Management
+- App.java : the main file -> Run it to play !
+- GameXXX  : are game-scene interfaces.
+- AudioXXX : refers to all audio management class.
+- FFT.java and Complex.java are two classes containing most of the mathematical methods.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Going further 
+
+1. Sort saved scores displayed on the leaderboard (quicksort should be ok).
+2. Reduce voice analysis complexity (may be recording at any time would work).
+3. Optimize code and complete comments.
