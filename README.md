@@ -19,6 +19,8 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 - GameXXX  : are game-scene interfaces.
 - AudioXXX : refers to all audio management class.
 - FFT.java and Complex.java are two classes containing most of the mathematical methods.
+- FFT.txt  : contains Fast-Fourier Transform result in a python table shape. 
+- SaveFile.txt : contains players scores. This file is load by the Leaderboard scene to display ranks. 
 
 ## Going further 
 
