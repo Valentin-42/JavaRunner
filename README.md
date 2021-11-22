@@ -1,7 +1,7 @@
 ## Java Runner project
 
-This video game is my first project with Java.
-The player has to stay alive by avoiding obsctacles to get first rank on the leaderboard.
+This video game is my first coing project using Java.
+The player has to stay alive by avoiding obsctacles. The longer he survives the better score he has.
 Implemented voice analysis to control player's action. Do click on rules & commands at the start menu. 
 
 ## Folder Structure
