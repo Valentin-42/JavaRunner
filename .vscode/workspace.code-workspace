@@ -1,0 +1,20 @@
+{
+	"folders": [],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar",
+			"d:\\Documents\\2A\\POO_Java\\javafx-sdk-17.0.0.1\\lib\\javafx.base.jar",
+			"d:\\Documents\\2A\\POO_Java\\javafx-sdk-17.0.0.1\\lib\\javafx.controls.jar",
+			"d:\\Documents\\2A\\POO_Java\\javafx-sdk-17.0.0.1\\lib\\javafx.fxml.jar",
+			"d:\\Documents\\2A\\POO_Java\\javafx-sdk-17.0.0.1\\lib\\javafx.graphics.jar",
+			"d:\\Documents\\2A\\POO_Java\\javafx-sdk-17.0.0.1\\lib\\javafx.media.jar",
+			"d:\\Documents\\2A\\POO_Java\\javafx-sdk-17.0.0.1\\lib\\javafx.swing.jar",
+			"d:\\Documents\\2A\\POO_Java\\javafx-sdk-17.0.0.1\\lib\\javafx.web.jar",
+			"d:\\Documents\\2A\\POO_Java\\javafx-sdk-17.0.0.1\\lib\\javafx-swt.jar"
+		]
+	}
+}
